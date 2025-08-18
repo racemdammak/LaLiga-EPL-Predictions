@@ -1,0 +1,1050 @@
+{
+  "standings": [
+    {
+      "type": "away",
+      "descriptions": [],
+      "tieBreakingRule": {
+        "text": "In the event that two (or more) teams finish with an equal number of points, the following rules break the tie:\n\n1. Head-to-head games between the teams concerned \n 1a. Points total\n 1b. Goal difference\n 1c. Goals scored\n2. Goal difference\n3. Goals scored",
+        "id": 2059
+      },
+      "rows": [
+        {
+          "team": {
+            "name": "Etoile Sportive Du Sahel",
+            "slug": "etoile-sportive-du-sahel",
+            "shortName": "Étoile",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 21648,
+            "nameCode": "ESD",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 35188,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "النجم الرياضي الساحلي",
+                "ru": "Этойле Спортив Сахел"
+              },
+              "shortNameTranslation": {
+                "ar": "النجم الرياضي الساحلي"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "text": "CAF Confederation Cup",
+            "id": 25
+          },
+          "position": 1,
+          "matches": 15,
+          "wins": 11,
+          "scoresFor": 27,
+          "scoresAgainst": 13,
+          "id": 1219900,
+          "losses": 2,
+          "draws": 2,
+          "points": 35,
+          "scoreDiffFormatted": "+14"
+        },
+        {
+          "team": {
+            "name": "Espérance Tunis",
+            "slug": "esperance-tunis",
+            "shortName": "Espérance",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 115149,
+            "nameCode": "ETU",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 59628,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#ede664",
+              "secondary": "#e04f5b",
+              "text": "#e04f5b"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الترجي الرياضي التونسي",
+                "ru": "Эсперанс Спортив"
+              },
+              "shortNameTranslation": {
+                "ar": "الترجي الرياضي التونسي",
+                "hi": "एस्पेरांस",
+                "bn": "এস্পেরেন্স"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "text": "Champions League",
+            "id": 804
+          },
+          "position": 2,
+          "matches": 15,
+          "wins": 10,
+          "scoresFor": 28,
+          "scoresAgainst": 9,
+          "id": 1219899,
+          "losses": 2,
+          "draws": 3,
+          "points": 33,
+          "scoreDiffFormatted": "+19"
+        },
+        {
+          "team": {
+            "name": "US Monastir",
+            "slug": "us-monastir",
+            "shortName": "Monastir",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 11567,
+            "nameCode": "UMO",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 59638,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#9ce0ff",
+              "secondary": "#00009f",
+              "text": "#00009f"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الاتحاد الرياضي المنستيري",
+                "ru": "ЮС Монастир",
+                "hi": "युएस मोनास्तिर"
+              },
+              "shortNameTranslation": {
+                "ar": "الاتحاد الرياضي المنستيري"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "text": "Champions League",
+            "id": 804
+          },
+          "position": 3,
+          "matches": 15,
+          "wins": 6,
+          "scoresFor": 10,
+          "scoresAgainst": 4,
+          "id": 1219905,
+          "losses": 1,
+          "draws": 8,
+          "points": 26,
+          "scoreDiffFormatted": "+6"
+        },
+        {
+          "team": {
+            "name": "CS Sfaxien",
+            "slug": "cs-sfaxien",
+            "shortName": "Sfaxien",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 14999,
+            "nameCode": "CSF",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 44463,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "النادي الرياضي الصفاقسي",
+                "ru": "Клуб Спортиф Сфаксьен",
+                "hi": "क्लब स्पोर्टीफ़ स्फाक्सिएन"
+              },
+              "shortNameTranslation": {
+                "ar": "النادي الرياضي الصفاقسي"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 4,
+          "matches": 15,
+          "wins": 5,
+          "scoresFor": 16,
+          "scoresAgainst": 12,
+          "id": 1219895,
+          "losses": 4,
+          "draws": 6,
+          "points": 21,
+          "scoreDiffFormatted": "+4"
+        },
+        {
+          "team": {
+            "name": "Stade Tunisien",
+            "slug": "stade-tunisien",
+            "shortName": "S. Tunisien",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 8146,
+            "nameCode": "TUN",
+            "national": false,
+            "type": 0,
+            "id": 59636,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#009900",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الملعب التونسي",
+                "ru": "Стад Тунис",
+                "hi": "स्तादे तुनिसिएं"
+              },
+              "shortNameTranslation": {
+                "ar": "الملعب التونسي"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 4,
+          "matches": 15,
+          "wins": 5,
+          "scoresFor": 12,
+          "scoresAgainst": 11,
+          "id": 1219903,
+          "losses": 4,
+          "draws": 6,
+          "points": 21,
+          "scoreDiffFormatted": "+1"
+        },
+        {
+          "team": {
+            "name": "Club Africain",
+            "slug": "club-africain",
+            "shortName": "Club Africain",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 38191,
+            "nameCode": "CAF",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 39618,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "النادي الإفريقي",
+                "ru": "Клуб Африкан"
+              },
+              "shortNameTranslation": {
+                "ar": "النادي الإفريقي"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 5,
+          "matches": 15,
+          "wins": 5,
+          "scoresFor": 15,
+          "scoresAgainst": 11,
+          "id": 1219894,
+          "losses": 4,
+          "draws": 6,
+          "points": 21,
+          "scoreDiffFormatted": "+4"
+        },
+        {
+          "team": {
+            "name": "ES Zarzis",
+            "slug": "es-zarzis",
+            "shortName": "Zarzis",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3549,
+            "nameCode": "EZA",
+            "national": false,
+            "type": 0,
+            "id": 59630,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#ffff00",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الترجي الرياضي الجرجيسي",
+                "hi": "इएस ज़रज़िस"
+              },
+              "shortNameTranslation": {
+                "ar": "الجرجيسي"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 7,
+          "matches": 15,
+          "wins": 4,
+          "scoresFor": 16,
+          "scoresAgainst": 21,
+          "id": 1219898,
+          "losses": 6,
+          "draws": 5,
+          "points": 17,
+          "scoreDiffFormatted": "-5"
+        },
+        {
+          "team": {
+            "name": "AS Soliman",
+            "slug": "as-soliman",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2001,
+            "nameCode": "SOL",
+            "national": false,
+            "type": 0,
+            "id": 274247,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#03776e",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "المستقبل الرياضي بسليمان",
+                "hi": "एएस सोलिमान"
+              },
+              "shortNameTranslation": {
+                "ar": "المستقبل الرياضي بسليمان"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 8,
+          "matches": 15,
+          "wins": 4,
+          "scoresFor": 11,
+          "scoresAgainst": 25,
+          "id": 1219892,
+          "losses": 8,
+          "draws": 3,
+          "points": 15,
+          "scoreDiffFormatted": "-14"
+        },
+        {
+          "team": {
+            "name": "Olympique Béja",
+            "slug": "olympique-beja",
+            "shortName": "Béja",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2762,
+            "nameCode": "ODB",
+            "national": false,
+            "type": 0,
+            "id": 59634,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الاولمبي الباجي",
+                "ru": "Олимпик де Беджа"
+              },
+              "shortNameTranslation": {
+                "ar": "الباجي"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 9,
+          "matches": 15,
+          "wins": 4,
+          "scoresFor": 8,
+          "scoresAgainst": 17,
+          "id": 1219902,
+          "losses": 8,
+          "draws": 3,
+          "points": 15,
+          "scoreDiffFormatted": "-9"
+        },
+        {
+          "team": {
+            "name": "ES Métlaoui",
+            "slug": "es-metlaoui",
+            "shortName": "Métlaoui",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1853,
+            "nameCode": "MET",
+            "national": false,
+            "type": 0,
+            "id": 112647,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#ed1b24",
+              "secondary": "#fef200",
+              "text": "#fef200"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "النجم الرياضي بالمتلوي"
+              },
+              "shortNameTranslation": {
+                "ar": "النجم الرياضي بالمتلوي"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 10,
+          "matches": 15,
+          "wins": 2,
+          "scoresFor": 12,
+          "scoresAgainst": 19,
+          "id": 1219897,
+          "losses": 8,
+          "draws": 5,
+          "points": 11,
+          "scoreDiffFormatted": "-7"
+        },
+        {
+          "team": {
+            "name": "US Ben Guerdane",
+            "slug": "us-ben-guerdane",
+            "shortName": "Ben Guerdane",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2338,
+            "nameCode": "UBG",
+            "national": false,
+            "type": 0,
+            "id": 148874,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#ffff00",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الاتحاد الرياضي ببنقردان",
+                "hi": "युएस बेन गुएरडेन"
+              },
+              "shortNameTranslation": {
+                "ar": "الاتحاد الرياضي ببنقردان"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 11,
+          "matches": 15,
+          "wins": 1,
+          "scoresFor": 11,
+          "scoresAgainst": 17,
+          "id": 1219904,
+          "losses": 7,
+          "draws": 7,
+          "points": 10,
+          "scoreDiffFormatted": "-6"
+        },
+        {
+          "team": {
+            "name": "Avenir Sportif De Gabes",
+            "slug": "avenir-sportif-de-gabes",
+            "shortName": "AS Gabès",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1838,
+            "nameCode": "GAB",
+            "national": false,
+            "type": 0,
+            "id": 59616,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#000000",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "المستقبل الرياضي بقابس"
+              },
+              "shortNameTranslation": {
+                "ar": "المستقبل الرياضي بقابس"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 12,
+          "matches": 15,
+          "wins": 2,
+          "scoresFor": 8,
+          "scoresAgainst": 26,
+          "id": 1219891,
+          "losses": 11,
+          "draws": 2,
+          "points": 8,
+          "scoreDiffFormatted": "-18"
+        },
+        {
+          "team": {
+            "name": "JS Omrane",
+            "slug": "js-omrane",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1456,
+            "nameCode": "JOM",
+            "national": false,
+            "type": 0,
+            "id": 341145,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الشبيبة الرياضية بالعمران",
+                "ru": "Js Omrane"
+              },
+              "shortNameTranslation": {
+                "ar": "الشبيبة الرياضية بالعمران"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 13,
+          "matches": 15,
+          "wins": 1,
+          "scoresFor": 8,
+          "scoresAgainst": 27,
+          "id": 1219901,
+          "losses": 9,
+          "draws": 5,
+          "points": 8,
+          "scoreDiffFormatted": "-19"
+        },
+        {
+          "team": {
+            "name": "US Tataouine",
+            "slug": "us-tataouine",
+            "shortName": "Tataouine",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1850,
+            "nameCode": "TAT",
+            "national": false,
+            "type": 0,
+            "id": 231649,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#000080",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "الاتحاد الرياضي بتطاوين",
+                "hi": "यूएस टाटाऔइने"
+              },
+              "shortNameTranslation": {
+                "ar": "الاتحاد الرياضي بتطاوين"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "text": "Relegation",
+            "id": 3
+          },
+          "position": 14,
+          "matches": 15,
+          "wins": 2,
+          "scoresFor": 8,
+          "scoresAgainst": 30,
+          "id": 1219906,
+          "losses": 11,
+          "draws": 2,
+          "points": 8,
+          "scoreDiffFormatted": "-22"
+        },
+        {
+          "team": {
+            "name": "CA Bizertin",
+            "slug": "ca-bizertin",
+            "shortName": "Bizertin",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 4894,
+            "nameCode": "BIZ",
+            "national": false,
+            "type": 0,
+            "id": 59618,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#ffff00",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "النادي الرياضي البنزرتي",
+                "ru": "Бизертен",
+                "hi": "सीए बिज़ेरटिन"
+              },
+              "shortNameTranslation": {
+                "ar": "النادي الرياضي البنزرتي"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 15,
+          "matches": 15,
+          "wins": 1,
+          "scoresFor": 5,
+          "scoresAgainst": 18,
+          "id": 1219893,
+          "losses": 11,
+          "draws": 3,
+          "points": 6,
+          "scoreDiffFormatted": "-13"
+        },
+        {
+          "team": {
+            "name": "EGS Gafsa",
+            "slug": "egs-gafsa",
+            "shortName": "EGSG",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2023,
+            "nameCode": "GAF",
+            "national": false,
+            "type": 0,
+            "id": 59622,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "teamColors": {
+              "primary": "#00a000",
+              "secondary": "#f7e384",
+              "text": "#f7e384"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "القوافل الرياضية بقفصـــــة",
+                "ru": "ЭГС Гафса",
+                "hi": "इहीएस गाफ़्सा"
+              },
+              "shortNameTranslation": {
+                "ar": "القوافل الرياضية بقفصـــــة"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "text": "Relegation",
+            "id": 3
+          },
+          "position": 16,
+          "matches": 15,
+          "wins": 1,
+          "scoresFor": 9,
+          "scoresAgainst": 23,
+          "id": 1219896,
+          "losses": 11,
+          "draws": 3,
+          "points": 6,
+          "scoreDiffFormatted": "-14"
+        }
+      ],
+      "id": 133259,
+      "tournament": {
+        "name": "Ligue 1",
+        "slug": "ligue-1",
+        "category": {
+          "name": "Tunisia",
+          "slug": "tunisia",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 378,
+          "country": {
+            "alpha2": "TN",
+            "alpha3": "TUN",
+            "name": "Tunisia",
+            "slug": "tunisia",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "تونس"
+              },
+              "shortNameTranslation": {
+
+              }
+            }
+          },
+          "flag": "tunisia",
+          "alpha2": "TN"
+        },
+        "uniqueTournament": {
+          "name": "Tunisian Ligue Professionnelle 1",
+          "slug": "ligue-1",
+          "primaryColorHex": "#de2426",
+          "secondaryColorHex": "#ad2532",
+          "category": {
+            "name": "Tunisia",
+            "slug": "tunisia",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "id": 378,
+            "country": {
+              "alpha2": "TN",
+              "alpha3": "TUN",
+              "name": "Tunisia",
+              "slug": "tunisia",
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "تونس"
+                },
+                "shortNameTranslation": {
+
+                }
+              }
+            },
+            "flag": "tunisia",
+            "alpha2": "TN"
+          },
+          "userCount": 9690,
+          "hasPerformanceGraphFeature": false,
+          "id": 984,
+          "country": {
+
+          },
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "الرابطة المحترفة الأولى",
+              "hi": "ट्यूनिशियन लिग प्रोफेशनल 1",
+              "bn": "তিউনিসিয়ান লিগ প্রফেশনেনেলে 1"
+            },
+            "shortNameTranslation": {
+
+            }
+          }
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 4295,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري الفرنسي",
+            "hi": "लीग 1",
+            "bn": "লিগ 1"
+          },
+          "shortNameTranslation": {
+
+          }
+        }
+      },
+      "name": "Ligue 1 24/25",
+      "updatedAtTimestamp": 1723814098
+    }
+  ]
+}
