@@ -19,25 +19,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 3533,
+            "userCount": 3561,
             "nameCode": "EZA",
             "national": false,
             "type": 0,
             "id": 59630,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#ffff00",
               "secondary": "#ff0000",
@@ -52,6 +38,11 @@
                 "ar": "الجرجيسي"
               }
             }
+          },
+          "descriptions": [],
+          "promotion": {
+            "text": "Champions League",
+            "id": 804
           },
           "position": 1,
           "matches": 2,
@@ -75,26 +66,12 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 38126,
+            "userCount": 38176,
             "nameCode": "CAF",
             "disabled": false,
             "national": false,
             "type": 0,
             "id": 39618,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#ff0000",
               "secondary": "#ffffff",
@@ -109,6 +86,11 @@
                 "ar": "النادي الإفريقي"
               }
             }
+          },
+          "descriptions": [],
+          "promotion": {
+            "text": "Champions League",
+            "id": 804
           },
           "position": 2,
           "matches": 2,
@@ -132,25 +114,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 8170,
+            "userCount": 8151,
             "nameCode": "TUN",
             "national": false,
             "type": 0,
             "id": 59636,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#009900",
               "secondary": "#ff0000",
@@ -166,6 +134,11 @@
                 "ar": "الملعب التونسي"
               }
             }
+          },
+          "descriptions": [],
+          "promotion": {
+            "text": "CAF Confederation Cup",
+            "id": 25
           },
           "position": 3,
           "matches": 2,
@@ -189,25 +162,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 1849,
+            "userCount": 1853,
             "nameCode": "MET",
             "national": false,
             "type": 0,
             "id": 112647,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#ed1b24",
               "secondary": "#fef200",
@@ -222,6 +181,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 4,
           "matches": 2,
           "wins": 1,
@@ -244,25 +204,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 1550,
+            "userCount": 1547,
             "nameCode": "AVE",
             "national": false,
             "type": 0,
             "id": 59614,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#fefe33",
               "secondary": "#00a000",
@@ -278,6 +224,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 5,
           "matches": 2,
           "wins": 1,
@@ -299,25 +246,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 1458,
+            "userCount": 1456,
             "nameCode": "JOM",
             "national": false,
             "type": 0,
             "id": 341145,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#374df5",
               "secondary": "#374df5",
@@ -333,6 +266,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 6,
           "matches": 2,
           "wins": 1,
@@ -355,25 +289,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 1973,
+            "userCount": 1977,
             "nameCode": "JKA",
             "national": false,
             "type": 0,
             "id": 59632,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#005e21",
               "secondary": "#ffffff",
@@ -390,6 +310,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 7,
           "matches": 2,
           "wins": 1,
@@ -412,25 +333,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 2345,
+            "userCount": 2336,
             "nameCode": "UBG",
             "national": false,
             "type": 0,
             "id": 148874,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#ffff00",
               "secondary": "#000000",
@@ -446,6 +353,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 8,
           "matches": 2,
           "wins": 1,
@@ -468,26 +376,12 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 115223,
+            "userCount": 114962,
             "nameCode": "ETU",
             "disabled": false,
             "national": false,
             "type": 0,
             "id": 59628,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#ede664",
               "secondary": "#e04f5b",
@@ -505,6 +399,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 9,
           "matches": 2,
           "wins": 0,
@@ -527,26 +422,12 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 11564,
+            "userCount": 11568,
             "nameCode": "UMO",
             "disabled": false,
             "national": false,
             "type": 0,
             "id": 59638,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#9ce0ff",
               "secondary": "#00009f",
@@ -563,6 +444,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 10,
           "matches": 2,
           "wins": 0,
@@ -585,25 +467,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 1840,
+            "userCount": 1842,
             "nameCode": "GAB",
             "national": false,
             "type": 0,
             "id": 59616,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#000000",
               "secondary": "#ff0000",
@@ -618,6 +486,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 11,
           "matches": 2,
           "wins": 0,
@@ -640,25 +509,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 4899,
+            "userCount": 4890,
             "nameCode": "BIZ",
             "national": false,
             "type": 0,
             "id": 59618,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#ffff00",
               "secondary": "#000000",
@@ -675,6 +530,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 11,
           "matches": 2,
           "wins": 0,
@@ -697,26 +553,12 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 14983,
+            "userCount": 14992,
             "nameCode": "CSF",
             "disabled": false,
             "national": false,
             "type": 0,
             "id": 44463,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#ffffff",
               "secondary": "#000000",
@@ -733,6 +575,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 13,
           "matches": 2,
           "wins": 0,
@@ -755,25 +598,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 2766,
+            "userCount": 2760,
             "nameCode": "ODB",
             "national": false,
             "type": 0,
             "id": 59634,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#ffffff",
               "secondary": "#ff0000",
@@ -789,6 +618,7 @@
               }
             }
           },
+          "descriptions": [],
           "position": 14,
           "matches": 2,
           "wins": 0,
@@ -810,25 +640,11 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 2002,
+            "userCount": 2001,
             "nameCode": "SOL",
             "national": false,
             "type": 0,
             "id": 274247,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#03776e",
               "secondary": "#000000",
@@ -844,6 +660,7 @@
               }
             }
           },
+          "descriptions": [],
           "promotion": {
             "text": "Relegation",
             "id": 3
@@ -870,26 +687,12 @@
               "slug": "football",
               "id": 1
             },
-            "userCount": 21643,
+            "userCount": 21649,
             "nameCode": "ESD",
             "disabled": false,
             "national": false,
             "type": 0,
             "id": 35188,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "teamColors": {
               "primary": "#ff0000",
               "secondary": "#ff0000",
@@ -905,6 +708,7 @@
               }
             }
           },
+          "descriptions": [],
           "promotion": {
             "text": "Relegation",
             "id": 3
@@ -934,20 +738,6 @@
             "id": 1
           },
           "id": 378,
-          "country": {
-            "alpha2": "TN",
-            "alpha3": "TUN",
-            "name": "Tunisia",
-            "slug": "tunisia",
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "تونس"
-              },
-              "shortNameTranslation": {
-
-              }
-            }
-          },
           "flag": "tunisia",
           "alpha2": "TN"
         },
@@ -965,29 +755,12 @@
               "id": 1
             },
             "id": 378,
-            "country": {
-              "alpha2": "TN",
-              "alpha3": "TUN",
-              "name": "Tunisia",
-              "slug": "tunisia",
-              "fieldTranslations": {
-                "nameTranslation": {
-                  "ar": "تونس"
-                },
-                "shortNameTranslation": {
-
-                }
-              }
-            },
             "flag": "tunisia",
             "alpha2": "TN"
           },
-          "userCount": 9697,
+          "userCount": 9682,
           "hasPerformanceGraphFeature": false,
           "id": 984,
-          "country": {
-
-          },
           "displayInverseHomeAwayTeams": false,
           "fieldTranslations": {
             "nameTranslation": {
